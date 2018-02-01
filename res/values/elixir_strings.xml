@@ -34,4 +34,6 @@
     <!-- Show About Phone instead of Android Version -->
     <string name="elixir_about_phone">About Phone</string>
 
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
 </resources>
