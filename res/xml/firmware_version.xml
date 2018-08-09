@@ -38,6 +38,15 @@
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
+    <!-- Project Elixir version -->
+    <Preference
+        android:key="elixir_version"
+        android:title="@string/elixir_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:searchable="false"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.ElixirVersionDetailPreferenceController"/>
+
     <!-- Security patch -->
     <Preference
         android:key="security_key"

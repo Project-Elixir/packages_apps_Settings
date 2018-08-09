@@ -33,4 +33,7 @@
     <!-- Density category -->
     <string name="density_category">Density options</string>
 
+    <!-- About device screen, Project Elixir -->
+    <string name="elixir_version">Project Elixir Version</string>
+
 </resources>
