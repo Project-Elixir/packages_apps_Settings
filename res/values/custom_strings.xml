@@ -33,4 +33,7 @@
     <string name="platform_revision">Platform</string>
     <string name="total_ram">Total RAM</string>
 
+    <!-- About device screen, Project Elixir -->
+    <string name="elixir_version">Project Elixir Version</string>
+
 </resources>
