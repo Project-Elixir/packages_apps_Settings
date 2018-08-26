@@ -36,4 +36,7 @@
     <!-- About device screen, Project Elixir -->
     <string name="elixir_version">Project Elixir Version</string>
 
+    <!-- About device screen, Build date -->
+    <string name="build_date">Build date</string>
+
 </resources>
