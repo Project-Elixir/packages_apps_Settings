@@ -97,6 +97,10 @@
             android:key="enable_blurs_on_windows"
             android:title="@string/window_blurs"/>
 
+        <com.android.settings.display.DensityPreference
+            android:key="density"
+            android:title="@string/developer_smallest_width" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
