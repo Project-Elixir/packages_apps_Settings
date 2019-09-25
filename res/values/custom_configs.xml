@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2021-2023 Project Elixir
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Copyright (C) 2020 ArrowOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,14 +14,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- About device screen, Build date -->
-    <string name="build_date">Build date</string>
+    <!-- Whether SELinux status should be shown or not. -->
+    <bool name="config_show_selinux_status">true</bool>
 
-    <!-- SELinux Status -->
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permissive</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
 </resources>
