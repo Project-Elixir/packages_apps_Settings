@@ -25,7 +25,8 @@
     <com.android.settingslib.widget.LayoutPreference
         android:key="elixir_logo"
         android:layout="@layout/elixir_logo"
-        android:selectable="false"/>
+	android:selectable="true"
+	settings:controller="com.android.settings.deviceinfo.firmwareversion.ElixirLogoPreferenceController"/>
 
     <!-- Android version -->
     <Preference
