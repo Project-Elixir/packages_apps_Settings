@@ -85,6 +85,11 @@
         <com.android.settings.display.DensityPreference
             android:key="density"
             android:title="@string/developer_smallest_width" />
+
+        <SwitchPreference
+            android:key="enable_blurs_on_windows"
+            android:title="@string/window_blurs"/>
+
     </PreferenceCategory>
 
     <PreferenceCategory
@@ -170,7 +175,7 @@
             android:summary="@string/high_touch_sensitivity_summary"
             android:defaultValue="false"
             settings:controller="com.android.settings.custom.touch.HighTouchSensitivitySettingsPreferenceController" />
-
+	
         <ListPreference
             android:key="theme"
             android:title="@string/device_theme"
