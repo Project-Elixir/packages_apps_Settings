@@ -25,4 +25,7 @@
     <!-- Elixir Maintainer -->
     <string name="Elixir_maintainer">Device Maintainer</string>
 
+    <!-- Elixir version preference -->
+    <string name="Elixir_version">"Elixir version"</string>
+
 </resources>
