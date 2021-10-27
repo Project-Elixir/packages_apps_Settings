@@ -28,4 +28,7 @@
     <!-- Elixir version preference -->
     <string name="Elixir_version">"Elixir version"</string>
 
+    <!-- About Phone screen, Device Codename -->
+    <string name="about_device_name">Device</string>
+
 </resources>
