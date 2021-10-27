@@ -29,4 +29,7 @@
     <!-- Device specific doze package -->
     <string name="config_customDozePackage" translatable="false"></string>
 
+    <!-- About Phone screen, Device Codename -->
+    <string name="about_device_name">Device</string>
+
 </resources>
