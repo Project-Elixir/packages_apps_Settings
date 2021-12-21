@@ -31,4 +31,7 @@
     <!-- About Phone screen, Device Codename -->
     <string name="about_device_name">Device</string>
 
+    <!-- Show About Phone instead of Android Version -->
+    <string name="elixir_about_phone">About Phone</string>
+
 </resources>
