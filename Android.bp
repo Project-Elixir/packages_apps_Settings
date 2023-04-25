@@ -54,10 +54,6 @@ android_library {
     ],
 
     srcs: ["src/**/*.java", "src/**/*.kt"],
-    resource_dirs: [
-        "res",
-        "TouchGestures/res"
-    ],
 
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
